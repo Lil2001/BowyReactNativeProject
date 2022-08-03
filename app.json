@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "auto2",
+    "slug": "auto2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/img/start.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.JustCode.bowy",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {},
+      "package": "com.JustCode.bowy",
+      "versionCode": 1
+    },
+    "description": ""
+  },
+  "name": "auto2"
+}
